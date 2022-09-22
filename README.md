@@ -5,4 +5,5 @@ I'm a CS undergrad passionate about learning and working with new technologies. 
 Contact Me
 ==========
 - You can reach out to me at masif2002@outlook.com
-- OR Check me out on [LinkedIn](https://www.linkedin.com/in/masif2002/)
+OR 
+- Check me out on [LinkedIn](https://www.linkedin.com/in/masif2002/)

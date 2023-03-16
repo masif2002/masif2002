@@ -11,7 +11,7 @@
 </h3>
 
 <h2> About Me </h2>
-  <img align="right" width="30%" height="150px"  style="margin-top:10px;" src="github-readme-stats-in0pub3eb-masif2002.vercel.app/api/top-langs?username=masif2002&show_icons=true&locale=en&layout=compact&theme=merko" alt="languages-used" />
+  <img align="right" width="30%" height="150px"  style="margin-top:10px;" src="https://github-readme-stats-in0pub3eb-masif2002.vercel.app/api/top-langs?username=masif2002&show_icons=true&locale=en&layout=compact&theme=merk" alt="languages-used" />
 <div>
   <ul>
   <li>Currently pursuing Computer Science and Engineering 24'</li>
@@ -89,5 +89,5 @@
 
 <h2>GITHUB STATS</h2>
 
-<img align="left" src="github-readme-stats-in0pub3eb-masif2002.vercel.app/api?username=masif2002&show_icons=true&hide=issues&count_private=true&theme=merko" alt="github-stats" height="175px" width="45%" />
+<img align="left" src="https://github-readme-stats-in0pub3eb-masif2002.vercel.app/api?username=masif2002&show_icons=true&hide=issues&count_private=true&theme=merko" alt="github-stats" height="175px" width="45%" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=masif2002&theme=merko" alt="github-streak" height="175px" width="45%" />

@@ -7,11 +7,11 @@
 <img src="https://komarev.com/ghpvc/?username=masif2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="masif2002" align="left" />
 <h3 align="right">
   <a href="https://linkedin.com/in/masif2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" style="margin-bottom:5px; margin-right:10px" />
- <a href="https://linkedin.com/in/masif2002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94846379/225494087-26a02b19-ed4f-4162-a466-bc1a34f35c9f.png" alt="website " height="20" width="20" />
+ <a href="https://mohamedasif.web.app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94846379/225494087-26a02b19-ed4f-4162-a466-bc1a34f35c9f.png" alt="website " height="20" width="20" />
 </h3>
 
 <h2> About Me </h2>
-  <img align="right" width="40%" height="150px"  style="margin-top:-10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=masif2002&show_icons=true&locale=en&layout=compact&theme=merko" alt="languages-used" />
+  <img align="right" width="30%" height="150px"  style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=masif2002&show_icons=true&locale=en&layout=compact&theme=merko" alt="languages-used" />
 <div>
   <ul>
   <li>Currently pursuing Computer Science and Engineering 24'</li>

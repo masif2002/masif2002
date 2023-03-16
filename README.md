@@ -11,7 +11,7 @@
 </h3>
 
 <h2> About Me </h2>
-  <img align="right" width="30%" height="150px"  style="margin-top:10px;" src="https://github-readme-stats-in0pub3eb-masif2002.vercel.app/api/top-langs?username=masif2002&show_icons=true&locale=en&layout=compact&theme=merko" alt="languages-used" />
+  <img align="right" width="50%" height="150px"  style="margin-top:10px;" src="https://github-readme-stats-in0pub3eb-masif2002.vercel.app/api/top-langs?username=masif2002&show_icons=true&locale=en&layout=compact&theme=merko" alt="languages-used" />
 <div>
   <ul>
   <li>Currently pursuing Computer Science and Engineering 24'</li>
